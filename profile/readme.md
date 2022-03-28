@@ -6,3 +6,4 @@ Chargeout is a free to use service which allows users to freely create their own
 
 ## Links
 [Website](https://chargeout.io)
+[Discord Server](https://chrge.link/discord)
