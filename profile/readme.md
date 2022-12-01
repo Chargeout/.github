@@ -1,5 +1,5 @@
 > ## Coming Soon!
-> We're currently in the middle of making Chargeout, So this project is expected to be released in mid 2022.
+> We're currently in the middle of making Chargeout, So this project is expected to be released in mid 2025.
 
 <img src="https://cdn.discordapp.com/attachments/993628608050499654/996127924862341141/co3.png">
 
